@@ -41,6 +41,7 @@ The core demonstration uses a physics-based simulation in Unity 3D to visualize 
 ### 2. **Simulation Video**
 
 The video demonstrates the CATERBOT autonomously moving across a field while the reinforced cultivator effectively tills the virtual ground, showcasing the successful implementation of the modular design.
+<img width="1280" height="574" alt="image" src="https://github.com/user-attachments/assets/2eeba6dd-c999-49a7-a1fe-d4cf4e658be3" />
 
 **[https://youtu.be/G9RHZ5Birs4]**
 
