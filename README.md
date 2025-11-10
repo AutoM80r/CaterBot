@@ -46,9 +46,5 @@ The video demonstrates the CATERBOT autonomously moving across a field while the
 
 ```markdown
 <p align="center">
-  <a href="[https://youtu.be/G9RHZ5Birs4]">
-    <img src="[https://youtu.be/G9RHZ5Birs4]" alt="Caterbot Cultivation Simulation" width="70%">
-  </a>
-  <br>
-  **Click the image above to watch the full SIMULATION VIDEO on YouTube.**
+  <h1><a href="[https://youtu.be/G9RHZ5Birs4](https://youtu.be/G9RHZ5Birs4)" target="_blank">Simulation of a CaterBot doing Cultivation on Unity3D</a></h1>
 </p>
